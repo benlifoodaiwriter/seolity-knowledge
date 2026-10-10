@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-10T09:15:07.254Z",
+  "date": "2026-10-10T15:32:05.309Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
   "site": "benlifood.ir",
   "report": [
-    "| site/benlifood.ir | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| site/benlifood.ir | playbook updated (sonnet, 9 competitor pages, 60 queries) |",
     "| en/google-helpful-content | unchanged |",
     "| fa/google-helpful-content | unchanged |",
     "| en/google-seo-starter-guide | unchanged |",
@@ -14,13 +14,13 @@
     "| fa/google-spam-policies | unchanged |",
     "| en/google-title-links | unchanged |",
     "| fa/google-title-links | unchanged |",
-    "| en/google-snippets | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| fa/google-snippets | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| en/google-ecommerce | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| fa/google-ecommerce | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| en/google-product-structured-data | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| fa/google-product-structured-data | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| en/google-structured-data-policies | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
-    "| fa/google-structured-data-policies | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |"
+    "| en/google-snippets | updated (6 sections) |",
+    "| fa/google-snippets | updated (6 sections) |",
+    "| en/google-ecommerce | updated (6 sections) |",
+    "| fa/google-ecommerce | updated (6 sections) |",
+    "| en/google-product-structured-data | updated (5 sections) |",
+    "| fa/google-product-structured-data | updated (5 sections) |",
+    "| en/google-structured-data-policies | updated (6 sections) |",
+    "| fa/google-structured-data-policies | updated (6 sections) |"
   ]
 }

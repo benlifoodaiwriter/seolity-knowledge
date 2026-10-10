@@ -70,5 +70,77 @@
       "input": 2,
       "output": 2974
     }
+  },
+  "en/google-snippets": {
+    "hash": "092970beaddda68f77084f164eb2975d1da2354adb2f7017cf26c3473fed1d35",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1400
+    }
+  },
+  "fa/google-snippets": {
+    "hash": "092970beaddda68f77084f164eb2975d1da2354adb2f7017cf26c3473fed1d35",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2996
+    }
+  },
+  "en/google-ecommerce": {
+    "hash": "9a49f5db90cdb4f554e59e3c0ed1303a0de64ecd808708f7e9115eda9fafbcbc",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 735
+    }
+  },
+  "fa/google-ecommerce": {
+    "hash": "9a49f5db90cdb4f554e59e3c0ed1303a0de64ecd808708f7e9115eda9fafbcbc",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1176
+    }
+  },
+  "en/google-product-structured-data": {
+    "hash": "ae16237bc18cad85f5a23a97290b8a679238c24614fc408c0b22e654fe047041",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1185
+    }
+  },
+  "fa/google-product-structured-data": {
+    "hash": "ae16237bc18cad85f5a23a97290b8a679238c24614fc408c0b22e654fe047041",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2129
+    }
+  },
+  "en/google-structured-data-policies": {
+    "hash": "741aff4be376c7458a27d0d53d8ca92ca1c558cbadc3e68a33d0dbe8f016e4a4",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1588
+    }
+  },
+  "fa/google-structured-data-policies": {
+    "hash": "741aff4be376c7458a27d0d53d8ca92ca1c558cbadc3e68a33d0dbe8f016e4a4",
+    "updated": "2026-10-10",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 3320
+    }
   }
 }
