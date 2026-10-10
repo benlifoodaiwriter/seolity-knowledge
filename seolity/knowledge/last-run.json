@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-10T09:13:32.884Z",
+  "engine": "claude",
+  "model": "sonnet",
+  "distilled": 8,
+  "site": "benlifood.ir",
+  "report": [
+    "| site/benlifood.ir | playbook updated (sonnet, 12 competitor pages, 60 queries) |",
+    "| en/google-helpful-content | updated (6 sections) |",
+    "| fa/google-helpful-content | updated (8 sections) |",
+    "| en/google-seo-starter-guide | updated (7 sections) |",
+    "| fa/google-seo-starter-guide | updated (7 sections) |",
+    "| en/google-spam-policies | updated (7 sections) |",
+    "| fa/google-spam-policies | updated (7 sections) |",
+    "| en/google-title-links | updated (6 sections) |",
+    "| fa/google-title-links | updated (7 sections) |"
+  ]
+}
