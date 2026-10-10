@@ -1,18 +1,26 @@
 {
-  "date": "2026-10-10T09:13:32.884Z",
+  "date": "2026-10-10T09:15:07.254Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
   "site": "benlifood.ir",
   "report": [
-    "| site/benlifood.ir | playbook updated (sonnet, 12 competitor pages, 60 queries) |",
-    "| en/google-helpful-content | updated (6 sections) |",
-    "| fa/google-helpful-content | updated (8 sections) |",
-    "| en/google-seo-starter-guide | updated (7 sections) |",
-    "| fa/google-seo-starter-guide | updated (7 sections) |",
-    "| en/google-spam-policies | updated (7 sections) |",
-    "| fa/google-spam-policies | updated (7 sections) |",
-    "| en/google-title-links | updated (6 sections) |",
-    "| fa/google-title-links | updated (7 sections) |"
+    "| site/benlifood.ir | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| en/google-helpful-content | unchanged |",
+    "| fa/google-helpful-content | unchanged |",
+    "| en/google-seo-starter-guide | unchanged |",
+    "| fa/google-seo-starter-guide | unchanged |",
+    "| en/google-spam-policies | unchanged |",
+    "| fa/google-spam-policies | unchanged |",
+    "| en/google-title-links | unchanged |",
+    "| fa/google-title-links | unchanged |",
+    "| en/google-snippets | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| fa/google-snippets | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| en/google-ecommerce | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| fa/google-ecommerce | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| en/google-product-structured-data | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| fa/google-product-structured-data | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| en/google-structured-data-policies | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |",
+    "| fa/google-structured-data-policies | AI failed: Claude Code: You've hit your session limit · resets 1:20pm (UTC) |"
   ]
 }
