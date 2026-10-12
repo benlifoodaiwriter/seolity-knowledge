@@ -1,11 +1,10 @@
 {
-  "date": "2026-10-10T15:32:05.309Z",
+  "date": "2026-10-12T03:42:29.962Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
-  "site": "benlifood.ir",
+  "site": null,
   "report": [
-    "| site/benlifood.ir | playbook updated (sonnet, 9 competitor pages, 60 queries) |",
     "| en/google-helpful-content | unchanged |",
     "| fa/google-helpful-content | unchanged |",
     "| en/google-seo-starter-guide | unchanged |",
@@ -14,13 +13,21 @@
     "| fa/google-spam-policies | unchanged |",
     "| en/google-title-links | unchanged |",
     "| fa/google-title-links | unchanged |",
-    "| en/google-snippets | updated (6 sections) |",
-    "| fa/google-snippets | updated (6 sections) |",
-    "| en/google-ecommerce | updated (6 sections) |",
-    "| fa/google-ecommerce | updated (6 sections) |",
-    "| en/google-product-structured-data | updated (5 sections) |",
-    "| fa/google-product-structured-data | updated (5 sections) |",
-    "| en/google-structured-data-policies | updated (6 sections) |",
-    "| fa/google-structured-data-policies | updated (6 sections) |"
+    "| en/google-snippets | unchanged |",
+    "| fa/google-snippets | unchanged |",
+    "| en/google-ecommerce | unchanged |",
+    "| fa/google-ecommerce | unchanged |",
+    "| en/google-product-structured-data | unchanged |",
+    "| fa/google-product-structured-data | unchanged |",
+    "| en/google-structured-data-policies | unchanged |",
+    "| fa/google-structured-data-policies | unchanged |",
+    "| en/google-images | updated (7 sections) |",
+    "| fa/google-images | updated (7 sections) |",
+    "| en/google-links-crawlable | updated (5 sections) |",
+    "| fa/google-links-crawlable | updated (5 sections) |",
+    "| en/google-redirects | updated (6 sections) |",
+    "| fa/google-redirects | updated (7 sections) |",
+    "| en/google-canonical | updated (6 sections) |",
+    "| fa/google-canonical | updated (7 sections) |"
   ]
 }

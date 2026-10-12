@@ -142,5 +142,77 @@
       "input": 2,
       "output": 3320
     }
+  },
+  "en/google-images": {
+    "hash": "cb9c894dcba53d4c64b890458bd3f004de9c1986530f2f80824a021912007ccd",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1643
+    }
+  },
+  "fa/google-images": {
+    "hash": "cb9c894dcba53d4c64b890458bd3f004de9c1986530f2f80824a021912007ccd",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 3494
+    }
+  },
+  "en/google-links-crawlable": {
+    "hash": "5471f026cf8564ee342385e3f218d2d3427fd2f23405c0ef0918758642d1f00b",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1290
+    }
+  },
+  "fa/google-links-crawlable": {
+    "hash": "5471f026cf8564ee342385e3f218d2d3427fd2f23405c0ef0918758642d1f00b",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2683
+    }
+  },
+  "en/google-redirects": {
+    "hash": "8c6b4b5567717e3c2499babded2cbc0680be9d83087aecc2a562a41066030b10",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1486
+    }
+  },
+  "fa/google-redirects": {
+    "hash": "8c6b4b5567717e3c2499babded2cbc0680be9d83087aecc2a562a41066030b10",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2818
+    }
+  },
+  "en/google-canonical": {
+    "hash": "8c1a6071f3ad9329dcbb7388a92697e8669aec70f082af6ca9f534fdc4766e61",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2139
+    }
+  },
+  "fa/google-canonical": {
+    "hash": "8c1a6071f3ad9329dcbb7388a92697e8669aec70f082af6ca9f534fdc4766e61",
+    "updated": "2026-10-12",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 3520
+    }
   }
 }
