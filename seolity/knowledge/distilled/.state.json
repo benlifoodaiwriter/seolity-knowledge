@@ -214,5 +214,77 @@
       "input": 2,
       "output": 3520
     }
+  },
+  "en/google-robots-intro": {
+    "hash": "cfec36ebb97c7b42c0b9a57bbd026f456a5d02835295ed46dd7d49d7f4faa073",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1096
+    }
+  },
+  "fa/google-robots-intro": {
+    "hash": "cfec36ebb97c7b42c0b9a57bbd026f456a5d02835295ed46dd7d49d7f4faa073",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1893
+    }
+  },
+  "en/google-sitemaps": {
+    "hash": "9e99a2ead41f234c712f30fd8b3f995182ce540c029723ee8dca3f2280da386c",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 981
+    }
+  },
+  "fa/google-sitemaps": {
+    "hash": "9e99a2ead41f234c712f30fd8b3f995182ce540c029723ee8dca3f2280da386c",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2126
+    }
+  },
+  "en/google-ai-features": {
+    "hash": "ac8bb9f2ca03a1b98126f5d7d43204e460d91397479fbb42715a1712656da661",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1278
+    }
+  },
+  "fa/google-ai-features": {
+    "hash": "ac8bb9f2ca03a1b98126f5d7d43204e460d91397479fbb42715a1712656da661",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2841
+    }
+  },
+  "en/google-faceted-navigation": {
+    "hash": "acc8491afc978cc841652ffdba1b8a188f506a3b38ee6f442e3afd3ce675c7d3",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1353
+    }
+  },
+  "en/google-localized-versions": {
+    "hash": "8fa4df59de25a2e2a739ba4094f2f99725b297c1238bd68017e80d5bb592dc2f",
+    "updated": "2026-10-19",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1875
+    }
   }
 }

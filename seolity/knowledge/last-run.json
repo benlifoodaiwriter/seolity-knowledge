@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12T03:42:29.962Z",
+  "date": "2026-10-19T03:55:18.380Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
@@ -21,13 +21,21 @@
     "| fa/google-product-structured-data | unchanged |",
     "| en/google-structured-data-policies | unchanged |",
     "| fa/google-structured-data-policies | unchanged |",
-    "| en/google-images | updated (7 sections) |",
-    "| fa/google-images | updated (7 sections) |",
-    "| en/google-links-crawlable | updated (5 sections) |",
-    "| fa/google-links-crawlable | updated (5 sections) |",
-    "| en/google-redirects | updated (6 sections) |",
-    "| fa/google-redirects | updated (7 sections) |",
-    "| en/google-canonical | updated (6 sections) |",
-    "| fa/google-canonical | updated (7 sections) |"
+    "| en/google-images | unchanged |",
+    "| fa/google-images | unchanged |",
+    "| en/google-links-crawlable | unchanged |",
+    "| fa/google-links-crawlable | unchanged |",
+    "| en/google-redirects | unchanged |",
+    "| fa/google-redirects | unchanged |",
+    "| en/google-canonical | unchanged |",
+    "| fa/google-canonical | unchanged |",
+    "| en/google-robots-intro | updated (4 sections) |",
+    "| fa/google-robots-intro | updated (5 sections) |",
+    "| en/google-sitemaps | updated (5 sections) |",
+    "| fa/google-sitemaps | updated (6 sections) |",
+    "| en/google-ai-features | updated (5 sections) |",
+    "| fa/google-ai-features | updated (6 sections) |",
+    "| en/google-faceted-navigation | updated (5 sections) |",
+    "| en/google-localized-versions | updated (8 sections) |"
   ]
 }
