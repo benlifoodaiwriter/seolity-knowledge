@@ -1,10 +1,11 @@
 {
-  "date": "2026-10-19T03:55:18.380Z",
+  "date": "2026-10-19T11:55:02.854Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
-  "site": null,
+  "site": "benlifood.ir",
   "report": [
+    "| site/benlifood.ir | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
     "| en/google-helpful-content | unchanged |",
     "| fa/google-helpful-content | unchanged |",
     "| en/google-seo-starter-guide | unchanged |",
@@ -29,13 +30,21 @@
     "| fa/google-redirects | unchanged |",
     "| en/google-canonical | unchanged |",
     "| fa/google-canonical | unchanged |",
-    "| en/google-robots-intro | updated (4 sections) |",
-    "| fa/google-robots-intro | updated (5 sections) |",
-    "| en/google-sitemaps | updated (5 sections) |",
-    "| fa/google-sitemaps | updated (6 sections) |",
-    "| en/google-ai-features | updated (5 sections) |",
-    "| fa/google-ai-features | updated (6 sections) |",
-    "| en/google-faceted-navigation | updated (5 sections) |",
-    "| en/google-localized-versions | updated (8 sections) |"
+    "| en/google-robots-intro | unchanged |",
+    "| fa/google-robots-intro | unchanged |",
+    "| en/google-sitemaps | unchanged |",
+    "| fa/google-sitemaps | unchanged |",
+    "| en/google-ai-features | unchanged |",
+    "| fa/google-ai-features | unchanged |",
+    "| en/google-faceted-navigation | unchanged |",
+    "| en/google-localized-versions | unchanged |",
+    "| fa/google-localized-versions | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| en/google-reviews-system | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| en/search-console-performance | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| fa/search-console-performance | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| en/webdev-lcp | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| en/webdev-inp | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| en/w3c-images-tutorial | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |",
+    "| fa/w3c-images-tutorial | AI failed: Claude Code: You've hit your session limit · resets 1:30pm (UTC) |"
   ]
 }
