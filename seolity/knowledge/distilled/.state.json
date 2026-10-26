@@ -286,5 +286,77 @@
       "input": 2,
       "output": 1875
     }
+  },
+  "fa/google-localized-versions": {
+    "hash": "8fa4df59de25a2e2a739ba4094f2f99725b297c1238bd68017e80d5bb592dc2f",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 3281
+    }
+  },
+  "en/google-reviews-system": {
+    "hash": "680ce46363808aa18b5385dda082d456f895c14048eda513dfb2f262460fd496",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 872
+    }
+  },
+  "en/search-console-performance": {
+    "hash": "25bf315d091af2bf6d149cba81e25464998bb66eaf62642ce4eb5f417149df1c",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1255
+    }
+  },
+  "fa/search-console-performance": {
+    "hash": "25bf315d091af2bf6d149cba81e25464998bb66eaf62642ce4eb5f417149df1c",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2255
+    }
+  },
+  "en/webdev-lcp": {
+    "hash": "1bb90f42e928f35ffebfce4c0eb65b0938c20b4db609b2652e8d38673d11e063",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2253
+    }
+  },
+  "en/webdev-inp": {
+    "hash": "f61b69a26a05e65adbc4bb77238e134702c949fd9a2b2bc3011f32c3ee626edf",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1644
+    }
+  },
+  "en/w3c-images-tutorial": {
+    "hash": "58747dc36271b90baf76288060555283fbcf86caa2144d4b02134a916f83fd22",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 898
+    }
+  },
+  "fa/w3c-images-tutorial": {
+    "hash": "58747dc36271b90baf76288060555283fbcf86caa2144d4b02134a916f83fd22",
+    "updated": "2026-10-26",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 1339
+    }
   }
 }

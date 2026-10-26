@@ -1,14 +1,10 @@
 {
-  "date": "2026-10-25T10:59:19.433Z",
+  "date": "2026-10-26T03:56:06.817Z",
   "engine": "claude",
   "model": "sonnet",
   "distilled": 8,
-  "site": "benlifood.ir",
+  "site": null,
   "report": [
-    "| https://kimchibanoo.ir/shop/نودل-های-کره-ای-ژاپنی-نودل-تند-با-طعم-های-مختلف-و-آرم-حلال/P2134-اگ-نودل-بزرگ-تخم-مرغی.html | competitor fetch failed: fetch failed |",
-    "| https://kimchibanoo.ir/shop/سس-اصلی-کره-ای-سس-تند-سس-کربونارا-سس-بولداک-سمیانگ-سس-لوبیا-سیاه-سس-سویا/P1071-سس-لوبیا-سیاه-غلیظ.html | competitor fetch failed: fetch failed |",
-    "| https://kimchibanoo.ir/shop/سوشی-مواد-اولیه/P1430-واسابی-پودری.html | competitor fetch failed: fetch failed |",
-    "| site/benlifood.ir | playbook updated (sonnet, 9 competitor pages, 60 queries) |",
     "| en/google-helpful-content | unchanged |",
     "| fa/google-helpful-content | unchanged |",
     "| en/google-seo-starter-guide | unchanged |",
@@ -41,13 +37,13 @@
     "| fa/google-ai-features | unchanged |",
     "| en/google-faceted-navigation | unchanged |",
     "| en/google-localized-versions | unchanged |",
-    "| fa/google-localized-versions | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| en/google-reviews-system | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| en/search-console-performance | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| fa/search-console-performance | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| en/webdev-lcp | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| en/webdev-inp | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| en/w3c-images-tutorial | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |",
-    "| fa/w3c-images-tutorial | AI failed: Claude Code: You've hit your session limit · resets 1:40pm (UTC) |"
+    "| fa/google-localized-versions | updated (7 sections) |",
+    "| en/google-reviews-system | updated (5 sections) |",
+    "| en/search-console-performance | updated (6 sections) |",
+    "| fa/search-console-performance | updated (6 sections) |",
+    "| en/webdev-lcp | updated (6 sections) |",
+    "| en/webdev-inp | updated (6 sections) |",
+    "| en/w3c-images-tutorial | updated (5 sections) |",
+    "| fa/w3c-images-tutorial | updated (4 sections) |"
   ]
 }
