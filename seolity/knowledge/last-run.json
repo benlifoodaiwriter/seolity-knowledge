@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26T03:56:06.817Z",
+  "date": "2026-11-02T04:15:24.853Z",
   "engine": "claude",
   "model": "sonnet",
-  "distilled": 8,
+  "distilled": 2,
   "site": null,
   "report": [
     "| en/google-helpful-content | unchanged |",
@@ -37,13 +37,15 @@
     "| fa/google-ai-features | unchanged |",
     "| en/google-faceted-navigation | unchanged |",
     "| en/google-localized-versions | unchanged |",
-    "| fa/google-localized-versions | updated (7 sections) |",
-    "| en/google-reviews-system | updated (5 sections) |",
-    "| en/search-console-performance | updated (6 sections) |",
-    "| fa/search-console-performance | updated (6 sections) |",
-    "| en/webdev-lcp | updated (6 sections) |",
+    "| fa/google-localized-versions | unchanged |",
+    "| en/google-reviews-system | unchanged |",
+    "| en/search-console-performance | unchanged |",
+    "| fa/search-console-performance | unchanged |",
+    "| en/webdev-lcp | unchanged |",
     "| en/webdev-inp | updated (6 sections) |",
-    "| en/w3c-images-tutorial | updated (5 sections) |",
-    "| fa/w3c-images-tutorial | updated (4 sections) |"
+    "| en/w3c-images-tutorial | unchanged |",
+    "| fa/w3c-images-tutorial | unchanged |",
+    "| en/bing-webmaster-guidelines | skipped: too little text |",
+    "| en/schema-org-product | updated (6 sections) |"
   ]
 }

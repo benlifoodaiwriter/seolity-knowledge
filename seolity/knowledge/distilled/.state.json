@@ -333,12 +333,12 @@
     }
   },
   "en/webdev-inp": {
-    "hash": "f61b69a26a05e65adbc4bb77238e134702c949fd9a2b2bc3011f32c3ee626edf",
-    "updated": "2026-10-26",
+    "hash": "b5f7bbf1955b429ba00e695e109d5efe4117525138aba7b38a2888dc61bf91b5",
+    "updated": "2026-11-02",
     "model": "sonnet",
     "tokens": {
       "input": 2,
-      "output": 1644
+      "output": 1704
     }
   },
   "en/w3c-images-tutorial": {
@@ -357,6 +357,15 @@
     "tokens": {
       "input": 2,
       "output": 1339
+    }
+  },
+  "en/schema-org-product": {
+    "hash": "a7bfb8fb1ea1527af562cd15c0b68577e445fda54a4e090a58e844609ce5357f",
+    "updated": "2026-11-02",
+    "model": "sonnet",
+    "tokens": {
+      "input": 2,
+      "output": 2184
     }
   }
 }
