@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-02T04:15:24.853Z",
+  "date": "2026-11-09T11:42:08.651Z",
   "engine": "claude",
   "model": "sonnet",
-  "distilled": 2,
+  "distilled": 0,
   "site": null,
   "report": [
     "| en/google-helpful-content | unchanged |",
@@ -42,10 +42,10 @@
     "| en/search-console-performance | unchanged |",
     "| fa/search-console-performance | unchanged |",
     "| en/webdev-lcp | unchanged |",
-    "| en/webdev-inp | updated (6 sections) |",
+    "| en/webdev-inp | unchanged |",
     "| en/w3c-images-tutorial | unchanged |",
     "| fa/w3c-images-tutorial | unchanged |",
     "| en/bing-webmaster-guidelines | skipped: too little text |",
-    "| en/schema-org-product | updated (6 sections) |"
+    "| en/schema-org-product | unchanged |"
   ]
 }
