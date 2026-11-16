@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-09T11:42:08.651Z",
+  "date": "2026-11-16T11:34:13.724Z",
   "engine": "claude",
   "model": "sonnet",
-  "distilled": 0,
+  "distilled": 2,
   "site": null,
   "report": [
     "| en/google-helpful-content | unchanged |",
@@ -41,8 +41,8 @@
     "| en/google-reviews-system | unchanged |",
     "| en/search-console-performance | unchanged |",
     "| fa/search-console-performance | unchanged |",
-    "| en/webdev-lcp | unchanged |",
-    "| en/webdev-inp | unchanged |",
+    "| en/webdev-lcp | AI failed: Claude Code: Failed to authenticate: OAuth token revoked. Please log in again or contact your administrator. |",
+    "| en/webdev-inp | AI failed: Claude Code: Failed to authenticate: OAuth token revoked. Please log in again or contact your administrator. |",
     "| en/w3c-images-tutorial | unchanged |",
     "| fa/w3c-images-tutorial | unchanged |",
     "| en/bing-webmaster-guidelines | skipped: too little text |",
